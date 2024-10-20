@@ -1,4 +1,4 @@
-{:toc}
+* TOC {:toc}
 # The
 hello!
 ## Sub
