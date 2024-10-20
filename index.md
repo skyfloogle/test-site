@@ -5,4 +5,4 @@ hello!
 ## Sub
 header
 
-![anim](anim.gif){:width="200" image-rendering="pixelated"}
+![anim](anim.gif){: height="200" style="image-rendering:pixelated" }
